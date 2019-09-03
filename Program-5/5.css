@@ -1,0 +1,44 @@
+players
+{
+	max-width: 30%;
+	margin: auto;
+}
+
+player
+{
+	display: block;
+	margin-bottom: 10px;
+}
+
+name
+{
+	display: block;
+	margin-left: 0px;
+	color: navy;
+	font-style: bold;
+}
+
+clubname
+{
+	display: block;
+	margin-left: 0px;
+	color: black;
+	font-style: bold;
+}
+
+positon
+{
+	display: block;
+	margin-left: 0px;
+	color: green;
+	font-style: bold;
+}
+
+country
+{
+	display: block;
+	margin-left: 0px;
+	color: red;
+	font-style: bold;
+}
+

@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<?xml-stylesheet type = "text/css" href = "5.css"?>
+<players>
+<player>
+<name>NAME: Cristiano Ronaldo</name>
+<clubname>CLUB: Juventus</clubname>
+<position>POSITION: LW</position>
+<country>COUNTRY: PORTUGAL</country>
+</player>
+<player>
+<name>NAME: Lionel Messi</name>
+<clubname>CLUB: FC Barelona</clubname>
+<position>POSITION: CF</position>
+<country>COUNTRY: ARGENTINA</country>
+</player>
+<player>
+<name>NAME: Neymar</name>
+<clubname>CLUB: PSG</clubname>
+<position>POSITION: LW</position>
+<country>COUNTRY: BRAZIL</country>
+</player>
+<player>
+<name>NAME: Luka Modric</name>
+<clubname>CLUB: Real Madrid</clubname>
+<position>POSITION: LMD</position>
+<country>COUNTRY: CROATIA</country>
+</player>
+</players>
